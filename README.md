@@ -1,2 +1,1 @@
-# DataStructureUsingPython
-This include basics of data structure using python
+This repository include implementation on Data Structures and Algorithm in Python
